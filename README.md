@@ -16,7 +16,7 @@ To use this, create a new repo from this template and do the following
 
 ## Notes for instructor 
 ### Details
-Please see the [project wiki]() for the details.
+Please see the [project wiki](../../wiki) for the details.
 
 ## Feedback
 For the instructor grading this project, please leave feedback as issues using the following templates
